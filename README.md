@@ -1,4 +1,4 @@
-# Employee Details
+# Details
 
 **Name:** Shaik Dilawar  
 **Company:** CODTECH IT SOLUTIONS  
